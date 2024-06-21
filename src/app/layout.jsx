@@ -10,13 +10,13 @@ import { lexend } from "../../config/fonts";
 import { Providers } from "./themeManager";
 
 export const metadata = {
-	title: "Dramalama",
+	title: "YaePlay",
 	description:
 		"Online service to watch kdramas and anime for free. You can also read and download mangas for free.",
 	generator: "Next.js",
-	applicationName: "Dramalama",
-	authors: [{ name: "zephex", url: "https://github.com/real-zephex" }],
-	creator: "Zephex",
+	applicationName: "YaePlay",
+	authors: [{ name: "Hizal", url: "https://github.com/Yaekirua" }],
+	creator: "Hizal",
 	keywords: [
 		"Kdrama",
 		"Anime",
