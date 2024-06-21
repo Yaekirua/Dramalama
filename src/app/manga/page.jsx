@@ -7,7 +7,7 @@ const MangaHomePage = async () => {
 				<p className="text-center text-xl">
 					Welcome to <br />
 					<span className="text-3xl text-sky-400">
-						Dramalama-Manga
+						Yae-Manga
 					</span>
 				</p>
 			</div>
